@@ -9,6 +9,12 @@
 > 非 Z.ai 官方产品。不修改 ZCode 安装目录、`app.asar` 或应用签名。
 > 灵感与架构致敬 [Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)。
 
+真实注入效果（自定义壁纸，侧栏/输入框均为原生可交互控件）：
+
+![换肤效果](docs/screenshot-effect.png)
+
+控制面板（主题管理 + 透明度/遮罩/模糊滑杆）：
+
 ![控制面板](docs/screenshot-panel.png)
 
 ## 它能做什么
