@@ -1,0 +1,19 @@
+{
+  "name": "zcode-dream-skin",
+  "version": "0.1.0",
+  "description": "ZCode 桌面端外部换肤工具：本机回环 CDP 注入壁纸主题，不修改官方安装包",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "bin": {
+    "zds": "bin/zds.js"
+  },
+  "scripts": {
+    "start": "node bin/zds.js start",
+    "apply": "node bin/zds.js apply",
+    "restore": "node bin/zds.js restore",
+    "panel": "node bin/zds.js panel"
+  }
+}
